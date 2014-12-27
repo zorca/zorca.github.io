@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, my name Zorca!"
+title:  "Hello! I am Zorca!"
 date:   2014-12-26 11:43:26
 categories: jekyll update
 ---
